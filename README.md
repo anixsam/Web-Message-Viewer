@@ -8,4 +8,4 @@
 
 ### Author
 
-["Anix Sam Saji"]("https://anixsamsaji.me")
+[Anix Sam Saji](https://anixsamsaji.me/)
